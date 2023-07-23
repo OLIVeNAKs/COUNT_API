@@ -1,0 +1,5 @@
+# Ignore npm/yarn lock files
+package-lock.json
+
+# Ignore node_modules directory (contains all installed dependencies)
+node_modules/
